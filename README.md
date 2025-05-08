@@ -1,2 +1,2 @@
-# Lógica de rogramação 
+# Lógica de Programação 
 Logica de programação em Python
